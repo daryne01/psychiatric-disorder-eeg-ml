@@ -1,0 +1,19 @@
+# Generated data files (produced by the notebook)
+cleaned_data.csv
+preprocessed_data.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.env/
